@@ -13,6 +13,9 @@ import java.util.Scanner;
  * @author DELL
  */
 public class Validation {
+    public static void main(String[] args) {
+        System.out.println("Hello World, I'm using Travis-CI!");
+    }
 
     public static final String ANSI_RESET = "\u001B[0m";
     public static final String ANSI_BLACK = "\u001B[30m";
